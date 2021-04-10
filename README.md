@@ -1,6 +1,6 @@
 # 2019-2 산업체 핸즈온 프로젝트 Team Project
 ## 세탁소 고객 관리 시스템
-<img src="https://github.com/yesoly/LocalWashHouse/blob/master/handsOn.png?raw=true" width="600px">
+<img src="https://github.com/yesoly/LocalWashHouse/blob/master/handsOn.png?raw=true" width="800px">
 
 
 ### Team Member
